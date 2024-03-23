@@ -1,0 +1,50 @@
+C:\Users\ahmet\Desktop\yapay zeka ödevleri\genetik algoritma\GenetikAlgoritma_Odev\GenetikAlgoritma_Odev\bin\Debug\GenetikAlgoritma_Odev.exe.config
+C:\Users\ahmet\Desktop\yapay zeka ödevleri\genetik algoritma\GenetikAlgoritma_Odev\GenetikAlgoritma_Odev\bin\Debug\GenetikAlgoritma_Odev.exe
+C:\Users\ahmet\Desktop\yapay zeka ödevleri\genetik algoritma\GenetikAlgoritma_Odev\GenetikAlgoritma_Odev\bin\Debug\GenetikAlgoritma_Odev.pdb
+C:\Users\ahmet\Desktop\yapay zeka ödevleri\genetik algoritma\GenetikAlgoritma_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.csproj.AssemblyReference.cache
+C:\Users\ahmet\Desktop\yapay zeka ödevleri\genetik algoritma\GenetikAlgoritma_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.Properties.Resources.resources
+C:\Users\ahmet\Desktop\yapay zeka ödevleri\genetik algoritma\GenetikAlgoritma_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.csproj.GenerateResource.cache
+C:\Users\ahmet\Desktop\yapay zeka ödevleri\genetik algoritma\GenetikAlgoritma_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\yapay zeka ödevleri\genetik algoritma\GenetikAlgoritma_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.exe
+C:\Users\ahmet\Desktop\yapay zeka ödevleri\genetik algoritma\GenetikAlgoritma_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.pdb
+C:\Users\ahmet\Desktop\yapay zeka ödevleri\genetik algoritma\GenetikAlgoritma_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.Form1.resources
+C:\Users\ahmet\Desktop\genetik algoritma_yeni\GenetikAlgoritma_Odev\GenetikAlgoritma_Odev\bin\Debug\GenetikAlgoritma_Odev.exe.config
+C:\Users\ahmet\Desktop\genetik algoritma_yeni\GenetikAlgoritma_Odev\GenetikAlgoritma_Odev\bin\Debug\GenetikAlgoritma_Odev.exe
+C:\Users\ahmet\Desktop\genetik algoritma_yeni\GenetikAlgoritma_Odev\GenetikAlgoritma_Odev\bin\Debug\GenetikAlgoritma_Odev.pdb
+C:\Users\ahmet\Desktop\genetik algoritma_yeni\GenetikAlgoritma_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.csproj.AssemblyReference.cache
+C:\Users\ahmet\Desktop\genetik algoritma_yeni\GenetikAlgoritma_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.Form1.resources
+C:\Users\ahmet\Desktop\genetik algoritma_yeni\GenetikAlgoritma_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.Properties.Resources.resources
+C:\Users\ahmet\Desktop\genetik algoritma_yeni\GenetikAlgoritma_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.csproj.GenerateResource.cache
+C:\Users\ahmet\Desktop\genetik algoritma_yeni\GenetikAlgoritma_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\genetik algoritma_yeni\GenetikAlgoritma_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.exe
+C:\Users\ahmet\Desktop\genetik algoritma_yeni\GenetikAlgoritma_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.pdb
+C:\Users\ahmet\Downloads\GenetikAlgoritma_Odev\GenetikAlgoritma_Odev\bin\Debug\GenetikAlgoritma_Odev.exe.config
+C:\Users\ahmet\Downloads\GenetikAlgoritma_Odev\GenetikAlgoritma_Odev\bin\Debug\GenetikAlgoritma_Odev.exe
+C:\Users\ahmet\Downloads\GenetikAlgoritma_Odev\GenetikAlgoritma_Odev\bin\Debug\GenetikAlgoritma_Odev.pdb
+C:\Users\ahmet\Downloads\GenetikAlgoritma_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.csproj.AssemblyReference.cache
+C:\Users\ahmet\Downloads\GenetikAlgoritma_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.Form1.resources
+C:\Users\ahmet\Downloads\GenetikAlgoritma_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.Properties.Resources.resources
+C:\Users\ahmet\Downloads\GenetikAlgoritma_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.csproj.GenerateResource.cache
+C:\Users\ahmet\Downloads\GenetikAlgoritma_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Downloads\GenetikAlgoritma_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.exe
+C:\Users\ahmet\Downloads\GenetikAlgoritma_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.pdb
+C:\Users\ahmet\Documents\GenetikAlgoritma(en iyisi)_Odev\GenetikAlgoritma_Odev\bin\Debug\GenetikAlgoritma_Odev.exe.config
+C:\Users\ahmet\Documents\GenetikAlgoritma(en iyisi)_Odev\GenetikAlgoritma_Odev\bin\Debug\GenetikAlgoritma_Odev.exe
+C:\Users\ahmet\Documents\GenetikAlgoritma(en iyisi)_Odev\GenetikAlgoritma_Odev\bin\Debug\GenetikAlgoritma_Odev.pdb
+C:\Users\ahmet\Documents\GenetikAlgoritma(en iyisi)_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.csproj.AssemblyReference.cache
+C:\Users\ahmet\Documents\GenetikAlgoritma(en iyisi)_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.Form1.resources
+C:\Users\ahmet\Documents\GenetikAlgoritma(en iyisi)_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.Properties.Resources.resources
+C:\Users\ahmet\Documents\GenetikAlgoritma(en iyisi)_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.csproj.GenerateResource.cache
+C:\Users\ahmet\Documents\GenetikAlgoritma(en iyisi)_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Documents\GenetikAlgoritma(en iyisi)_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.exe
+C:\Users\ahmet\Documents\GenetikAlgoritma(en iyisi)_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.pdb
+C:\Users\ahmet\Pictures\GenetikAlgoritma(en iyisi)_Odev\GenetikAlgoritma_Odev\bin\Debug\GenetikAlgoritma_Odev.exe.config
+C:\Users\ahmet\Pictures\GenetikAlgoritma(en iyisi)_Odev\GenetikAlgoritma_Odev\bin\Debug\GenetikAlgoritma_Odev.exe
+C:\Users\ahmet\Pictures\GenetikAlgoritma(en iyisi)_Odev\GenetikAlgoritma_Odev\bin\Debug\GenetikAlgoritma_Odev.pdb
+C:\Users\ahmet\Pictures\GenetikAlgoritma(en iyisi)_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.csproj.AssemblyReference.cache
+C:\Users\ahmet\Pictures\GenetikAlgoritma(en iyisi)_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.Form1.resources
+C:\Users\ahmet\Pictures\GenetikAlgoritma(en iyisi)_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.Properties.Resources.resources
+C:\Users\ahmet\Pictures\GenetikAlgoritma(en iyisi)_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.csproj.GenerateResource.cache
+C:\Users\ahmet\Pictures\GenetikAlgoritma(en iyisi)_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Pictures\GenetikAlgoritma(en iyisi)_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.exe
+C:\Users\ahmet\Pictures\GenetikAlgoritma(en iyisi)_Odev\GenetikAlgoritma_Odev\obj\Debug\GenetikAlgoritma_Odev.pdb
